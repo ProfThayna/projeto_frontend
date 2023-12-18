@@ -16,8 +16,8 @@ Follow these steps to set up the server:
 
 2. **Install Dependencies**
    npm install
-   
-3.**Start the Server**
+
+3. **Start the Server**
    npm run serve
 
 
